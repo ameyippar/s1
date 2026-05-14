@@ -1,0 +1,10 @@
+Dockerfile
+
+
+terminal madhe 
+
+
+
+
+docker run -p 3000:3000 desi
+docker images 
